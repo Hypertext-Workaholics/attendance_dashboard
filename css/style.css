@@ -1,0 +1,65 @@
+body{
+    background-color: rgb(206, 210, 213);
+}
+.car
+{
+    width:217px;
+    /* border: 1px solid black; */
+    /* height:40%; */
+    margin-left: 10px;
+    margin-top: 57px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    padding: 20px;
+    float: left;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 15px;
+    background-color: white;
+    box-shadow:5px 5px #888888;
+}
+#tab
+{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    width:700px;
+    background-color: white;
+    box-shadow:5px 5px #888888;
+    border-radius: 15px;
+}
+#tab th
+{
+    padding: 20px;
+    /* font-size: 20px;
+    font-weight: bold; */
+}
+#tab td
+{
+    padding-left: 20px;
+    /* font-size: 20px;
+    font-weight: bold; */
+}
+.announce
+{
+    margin-top: 65px;
+    margin-left: 10px;
+    margin-right: 10px;
+    /* margin-bottom: 20px; */
+    padding-left:20px ;
+    padding-right: 10px;
+    width:300px;
+    background-color: white;
+    box-shadow:5px 5px #888888;
+    border-radius: 15px;
+    
+}
+.tol
+{
+    width:300px;
+    background-color: white;
+    box-shadow:5px 5px #888888;
+    border-radius: 15px;
+}
